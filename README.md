@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi，Vincent!
+Welcome to the programming world!
+I hope you could enjoy it!
